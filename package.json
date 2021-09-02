@@ -1,0 +1,17 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "A simple HTML to PDF tool using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --trace-warnings index.js"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "Will 保哥",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.14.1"
+  }
+}
